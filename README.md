@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ArtemisTheVC
+- 👀 I’m interested in web3
+- 🌱 I’m currently learning rust
+- 📫 How to reach me @ArtemisTheVC
